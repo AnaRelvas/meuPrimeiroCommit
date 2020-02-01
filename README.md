@@ -1,2 +1,0 @@
-# meuPrimeiroCommit
-Created with CodeSandbox
